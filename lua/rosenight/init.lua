@@ -99,7 +99,7 @@ M.load = function()
   hi("ErrorMsg",      p.err, p.none)
   hi("WarningMsg",    p.warn, p.none)
 
-  hi("MatchParen",    p.none, p.bg4, "bold,underline")
+  hi("MatchParen",    p.none, p.bg4, "bold")
   hi("NonText",       p.bg4)
   hi("Whitespace",    p.bg3)
   hi("SpecialKey",    p.bg4)
