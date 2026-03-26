@@ -1,0 +1,68 @@
+# Alacritty terminal theme
+# Place in ~/.config/alacritty/themes/ and import with:
+#   import:
+#     - ~/.config/alacritty/themes/rosenight.toml
+
+[colors.primary]
+background = "#1a1b26"
+foreground = "#e0def4"
+dim_foreground = "#6e6a86"
+bright_foreground = "#e0def4"
+
+[colors.cursor]
+text   = "#1a1b26"
+cursor = "#e0def4"
+
+[colors.vi_mode_cursor]
+text   = "#1a1b26"
+cursor = "#9ccfd8"
+
+[colors.search.matches]
+foreground = "#1a1b26"
+background = "#f6c177"
+
+[colors.search.focused_match]
+foreground = "#1a1b26"
+background = "#ea9a97"
+
+[colors.hints.start]
+foreground = "#1a1b26"
+background = "#f6c177"
+
+[colors.hints.end]
+foreground = "#1a1b26"
+background = "#ea9a97"
+
+[colors.selection]
+text       = "#e0def4"
+background = "#292e42"
+
+[colors.normal]
+black   = "#1a1b26"
+red     = "#eb6f92"
+green   = "#9ccfd8"
+yellow  = "#f6c177"
+blue    = "#3e8fb0"
+magenta = "#c4a7e7"
+cyan    = "#9ccfd8"
+white   = "#e0def4"
+
+[colors.bright]
+black   = "#3b4261"
+red     = "#eb6f92"
+green   = "#9ccfd8"
+yellow  = "#f6c177"
+blue    = "#3e8fb0"
+magenta = "#eb6f92"
+cyan    = "#9ccfd8"
+white   = "#e0def4"
+
+[colors.dim]
+black   = "#1f2335"
+red     = "#eb6f92"
+green   = "#9ccfd8"
+yellow  = "#f6c177"
+blue    = "#3e8fb0"
+magenta = "#c4a7e7"
+cyan    = "#9ccfd8"
+white   = "#908caa"
