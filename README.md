@@ -1,6 +1,6 @@
 # rosenight.nvim
 
-A delightful set of warm Neovim colorschemes.
+Rose-Pine meets TokyoNight (and more).
 
 ![neovim](https://img.shields.io/badge/neovim-0.8+-green?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
