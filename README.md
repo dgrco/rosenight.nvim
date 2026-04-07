@@ -8,6 +8,38 @@ Rose-Pine meets TokyoNight (and more).
 ## Palletes
 <!-- PALETTES_START -->
 <details>
+<summary><strong>black</strong></summary>
+
+| Role       | Color                                                                  | Hex       |
+|------------|------------------------------------------------------------------------|--------|
+| bg0        | ![#000000](https://placehold.co/12x12/000000/000000.png) Background   | `#000000` |
+| bg1        | ![#1f2335](https://placehold.co/12x12/1f2335/1f2335.png) Cursorline   | `#1f2335` |
+| bg2        | ![#24283b](https://placehold.co/12x12/24283b/24283b.png) Floating windows | `#24283b` |
+| bg3        | ![#292e42](https://placehold.co/12x12/292e42/292e42.png) Selection / visual | `#292e42` |
+| bg4        | ![#3b4261](https://placehold.co/12x12/3b4261/3b4261.png) UI chrome / borders | `#3b4261` |
+| fg0        | ![#e0def4](https://placehold.co/12x12/e0def4/e0def4.png) Bright text  | `#e0def4` |
+| fg1        | ![#e0def4](https://placehold.co/12x12/e0def4/e0def4.png) Normal text  | `#e0def4` |
+| fg2        | ![#908caa](https://placehold.co/12x12/908caa/908caa.png) Subtle text  | `#908caa` |
+| fg3        | ![#6e6a86](https://placehold.co/12x12/6e6a86/6e6a86.png) Comments / dim | `#6e6a86` |
+| red        | ![#eb6f92](https://placehold.co/12x12/eb6f92/eb6f92.png) Keywords     | `#eb6f92` |
+| orange     | ![#ea9a97](https://placehold.co/12x12/ea9a97/ea9a97.png) Types / builtins / constants | `#ea9a97` |
+| yellow     | ![#f6c177](https://placehold.co/12x12/f6c177/f6c177.png) Strings / return types | `#f6c177` |
+| green      | ![#9ccfd8](https://placehold.co/12x12/9ccfd8/9ccfd8.png) Functions    | `#9ccfd8` |
+| cyan       | ![#9ccfd8](https://placehold.co/12x12/9ccfd8/9ccfd8.png) Imports / interfaces | `#9ccfd8` |
+| blue       | ![#3e8fb0](https://placehold.co/12x12/3e8fb0/3e8fb0.png) Tags / directories | `#3e8fb0` |
+| purple     | ![#c4a7e7](https://placehold.co/12x12/c4a7e7/c4a7e7.png) Numbers / booleans | `#c4a7e7` |
+| pink       | ![#eb6f92](https://placehold.co/12x12/eb6f92/eb6f92.png) Operators / punctuation | `#eb6f92` |
+| err        | ![#eb6f92](https://placehold.co/12x12/eb6f92/eb6f92.png) Error        | `#eb6f92` |
+| warn       | ![#f6c177](https://placehold.co/12x12/f6c177/f6c177.png) Warning      | `#f6c177` |
+| info       | ![#9ccfd8](https://placehold.co/12x12/9ccfd8/9ccfd8.png) Info         | `#9ccfd8` |
+| hint       | ![#3e8fb0](https://placehold.co/12x12/3e8fb0/3e8fb0.png) Hint         | `#3e8fb0` |
+| added      | ![#9ccfd8](https://placehold.co/12x12/9ccfd8/9ccfd8.png) Added        | `#9ccfd8` |
+| changed    | ![#f6c177](https://placehold.co/12x12/f6c177/f6c177.png) Changed      | `#f6c177` |
+| removed    | ![#eb6f92](https://placehold.co/12x12/eb6f92/eb6f92.png) Removed      | `#eb6f92` |
+
+</details>
+
+<details>
 <summary><strong>main</strong></summary>
 
 | Role       | Color                                                                  | Hex       |

@@ -1,0 +1,31 @@
+# Ghostty theme
+# Place in ~/.config/ghostty/themes/rosenight
+# Load with: theme = rosenight
+
+# Core colors
+background = 000000
+foreground = e0def4
+selection-background = 292e42
+selection-foreground = e0def4
+cursor-color = e0def4
+cursor-text = 000000
+
+# 16-color palette (regular 0–7)
+palette = 0=000000
+palette = 1=eb6f92
+palette = 2=9ccfd8
+palette = 3=f6c177
+palette = 4=3e8fb0
+palette = 5=c4a7e7
+palette = 6=9ccfd8
+palette = 7=e0def4
+
+# 16-color palette (bright 8–15)
+palette = 8=3b4261
+palette = 9=eb6f92
+palette = 10=9ccfd8
+palette = 11=f6c177
+palette = 12=3e8fb0
+palette = 13=eb6f92
+palette = 14=9ccfd8
+palette = 15=e0def4
